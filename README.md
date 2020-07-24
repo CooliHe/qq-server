@@ -1,8 +1,11 @@
-Java·ÂQQ·şÎñ¶Ë
+## Javaä»¿QQæœåŠ¡ç«¯
 
-ÏîÄ¿ÔËĞĞ
-
-°ÑÏîÄ¿¿ËÂ¡µ½±¾µØ
+é¡¹ç›®è¿è¡Œ
+### éƒ¨ç½²å®¢æˆ·ç«¯ï¼š
+å®¢æˆ·ç«¯åœ°å€ï¼š
+git clone https://github.com/CooliHe/qqchat.git
+æœåŠ¡ç«¯ï¼š
+æŠŠé¡¹ç›®å…‹éš†åˆ°æœ¬åœ°
 git clone https://github.com/jie12366/imitate-qq-server
-Ö±½ÓÖ÷³ÌĞòMain¼´¿É¡£
+ç›´æ¥ä¸»ç¨‹åºMainå³å¯ã€‚
 
