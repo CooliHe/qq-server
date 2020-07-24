@@ -1,10 +1,10 @@
 ## Java仿QQ服务端
 
-项目运行，把项目克隆到本地
+项目运行，把项目克隆到本地部署
 ### 部署客户端：
 客户端地址：
 ```
-git clone https://github.com/CooliHe/qqchat.git
+https://github.com/CooliHe/qqchat
 ```
 ### 部署服务端：
 服务端：
